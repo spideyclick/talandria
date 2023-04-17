@@ -1,0 +1,5 @@
+## Torgothar "Torg" Flameheart
+
+![picture 3](/images/279f4a671ca4e3280b2504318b64d152047efc451a2fde10bdc71f6122e72cc6.png)
+
+**Torgothar Flameheart** is a Dragonborn fighter who has gained a reputation as a skilled warrior and a fearless leader. Born into a family of proud warriors, Torg was trained in the art of combat from a young age, and quickly rose through the ranks of his clan's military. However, Torg chafed at the restrictive traditions of his clan, and yearned for a chance to make a name for himself outside of their borders. He set out into the wider world, seeking out adventure and fortune, and quickly gained a reputation as the leader of the adventuring group, the **IronWatch**. A formidable fighter and a charismatic leader, Torg uses both axe and shield in combat with precision. Torg has led numerous successful missions, earning the loyalty of a tight-knit group of companions and the respect of many others. However, he is haunted by the memory of a failed mission that cost the lives of several of his friends, and is determined to redeem himself by completing even more dangerous quests.
