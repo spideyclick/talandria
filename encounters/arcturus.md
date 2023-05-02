@@ -1,14 +1,7 @@
-## Arcturus Shadowblade
-
-![picture 1](/images/0dd47113b277d2f9266223eaf582f96f1395375e77a25a059a154a89f05a7e03.jpg)
-
-*Formerly Arcturus Skyblade*
-
-**Arcturus Shadowblade**, once a respected paladin with the name **SkyBlade**, fell from grace after witnessing a grave injustice that he felt he couldn't rectify through lawful means. Driven by anger and frustration, he turned to darker methods, using the free and unlimited powers given by **Graz'zt** to ruthlessly punish wrongdoers. Over time, his actions became increasingly extreme, and he now sees himself as a necessary force for order in a chaotic world. Arcturus is a feared and reviled figure, using his powers to further his own twisted agenda.
-
-Arcturus Shadowblade, Corrupted Paladin
-
-Medium humanoid (human), lawful evil
+1. Arcturus (20) [11/120]
+2. Drak (19)
+3. Shozaki (14)
+4. Kodera (12)
 
 Armor Class: 18 (plate armor, shield)
 
@@ -36,7 +29,7 @@ Spellcasting: Arcturus is a 9th-level spellcaster. His spellcasting ability is C
 
 3rd level (3 slots): dispel magic, protection from energy, revivify
 
-4th level (2 slots): banishment, death ward
+4th level ([1/2] slots): banishment, death ward
 
 Actions:
 

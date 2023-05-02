@@ -52,7 +52,6 @@ As the sun sets and casts the sky in hues of orange and pink, the forest becomes
 
 ![picture 5](images/3d1435e65ebc45b04fa95ec330fffeccfe818373df420f785f7f7b5a6dcfd1ac.png)  
 
-
 As you enter the decaying fortress, you see a deactivated portal frame. Must set the clocks to midnight to be activated.
 
 Can also do perception check to find the cache with a key hole.

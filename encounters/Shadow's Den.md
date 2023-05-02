@@ -9,7 +9,7 @@
 - Shadow Cloak: This black cloak is made of a magical material that seems to absorb light. When worn, the wearer gains resistance to necrotic damage and can move through dim light or darkness as if it were difficult terrain.
 - Assassin's Key: This key will immediately open the assassin's cache in the Shadow's Den:
   - Potion of Invisibility: This small vial contains a shimmering liquid that turns the drinker invisible for 1 hour.
-  - Gold and Jewels: The assassins have a small stash of gold and valuable gems that they have accumulated from their various jobs. In total, the stash is worth 500 gold pieces.
+  - Gold and Jewels: The assassins have a small stash of gold and valuable gems that they have accumulated from their various jobs. In total, the stash is worth 400 gold pieces.
   - Assassin's Journal: This leather-bound journal contains detailed notes on the assassins' various targets, including their strengths, weaknesses, and daily routines. The journal also contains a coded message that hints at a larger plot that the assassins are involved in.
   - Scroll of Darkness: This parchment scroll contains a single-use spell that creates a sphere of darkness, covering a 15-foot radius. The darkness lasts for 10 minutes, or until dispelled by a spell or magical effect. The scroll can be used by anyone who can cast 2nd-level spells.
 
